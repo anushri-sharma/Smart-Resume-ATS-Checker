@@ -1,0 +1,25 @@
+Jane Doe
+jane.doe@email.com | 555-123-4567 | Bengaluru, India
+
+Summary
+Software developer with three years of experience building web applications
+and working with relational databases. Comfortable collaborating with
+cross-functional teams in an agile environment.
+
+Skills
+Python, SQL, Git, Flask, HTML, CSS, Excel, communication, teamwork
+
+Experience
+Backend Developer, ExampleCorp (2023 - Present)
+• Built and maintained REST APIs using Flask and Python.
+• Wrote SQL queries to support reporting dashboards.
+• Collaborated with the frontend team using Git for version control.
+• Participated in daily agile standups and sprint planning.
+
+Junior Developer, StartupX (2021 - 2023)
+• Developed internal tools using Python and Excel automation.
+• Improved code quality through testing and debugging.
+• Communicated project status to stakeholders regularly.
+
+Education
+B.Tech in Computer Science, Example University (2021)
