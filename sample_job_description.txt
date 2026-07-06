@@ -1,0 +1,18 @@
+Backend Engineer
+
+We are looking for a Backend Engineer with strong experience in Python and
+SQL. The ideal candidate is familiar with Docker, AWS, and cloud
+deployment, and has experience building REST APIs. Knowledge of Django or
+Flask is a plus. You should be comfortable with Git, CI/CD pipelines, and
+agile development practices.
+
+Requirements
+- Strong Python and SQL skills
+- Experience with Docker and AWS
+- Familiarity with REST API design
+- Good communication and teamwork skills
+- Experience with Git and CI/CD
+
+Nice to have
+- Experience with Kubernetes
+- Familiarity with machine learning basics
