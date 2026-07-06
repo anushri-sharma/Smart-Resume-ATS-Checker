@@ -1,5 +1,5 @@
 # Smart Resume ATS Checker
-
+#### Video Demo:  https://youtu.be/QiCVxHBciOA
 #### Description:
 
 Smart Resume ATS Checker is a command-line Python program that analyzes a
@@ -127,4 +127,4 @@ To run the test suite:
 pytest test_project.py
 ```
 
-#### Video Demo:  https://youtu.be/QiCVxHBciOA
+
