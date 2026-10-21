@@ -1,7 +1,6 @@
 # Smart Resume ATS Checker
 #### Video Demo:  https://youtu.be/QiCVxHBciOA
 #### Description:
-asbdjhabdk asdkcjabsd sabdjhad
 
 Smart Resume ATS Checker is a command-line Python program that analyzes a
 resume against a specific job description the way an Applicant Tracking
